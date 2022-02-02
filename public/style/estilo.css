@@ -1,0 +1,17 @@
+body{
+    background-color: #666;
+}
+
+.normal{
+    background-color: #FFFFCC;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.importante{
+    background-color: #EC7063;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.grisoscuro{
+    background-color: #111;
+}
